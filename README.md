@@ -96,3 +96,18 @@ AuthOracle (Unichain): [0x1566BFA55D95686a823751298533D42651183988](https://unic
 Receiver (Unichain): [0x4A71f81C6109230932978bAB7CA746f0be0C4580](https://unichain.blockscout.com/address/0x4A71f81C6109230932978bAB7CA746f0be0C4580?tab=contract)  
 Balancer Rate Provider (Unichain): [0x93c81ADc7F98FdBC8C7a15eCBeD312c8F6adbcB3](https://unichain.blockscout.com/address/0x93c81ADc7F98FdBC8C7a15eCBeD312c8F6adbcB3?tab=contract)  
 Chainlink Rate Provider (Unichain): [0x7ac96180C4d6b2A328D3a19ac059D0E7Fc3C6d41](https://unichain.blockscout.com/address/0x7ac96180C4d6b2A328D3a19ac059D0E7Fc3C6d41?tab=contract)
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [Sky XChain SSR Oracle](https://www.chainsecurity.com/security-audit/sky-xchain-ssr-oracle/) | 2026-05-15 |
+| Cantina | [Sky: LZ Gov Bridge Support Xchain SSR Oracle](https://cantina.xyz/portfolio/df8dbba0-90b8-4592-857d-a135e3099153) | 2026-04-26 |
+| ChainSecurity | [XChain SSR Oracle](https://www.chainsecurity.com/security-audit/xchain-ssr-oracle/) | 2025-01-20 |
+| Cantina | [xchain-ssr-oracle](https://cantina.xyz/portfolio/f8b99f8c-1c39-414e-a5d9-669403973efd) | 2024-09-20 |
+| ChainSecurity | [XChain SSR Oracle](https://www.chainsecurity.com/security-audit/xchain-dsr-oracle/) | 2024-09-11 |
+| Cantina | [xchain-dsr-oracle](https://cantina.xyz/portfolio/0e045ab1-c6ba-4b16-b693-cd42c318a16a) | 2024-08-20 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
